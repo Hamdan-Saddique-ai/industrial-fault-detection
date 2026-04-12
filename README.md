@@ -111,14 +111,12 @@ OR run in Google Colab / Jupyter Notebook.
 
 ---
 
-## 👨‍💻 Author  
-
-Hamdan-Saddique-ai  
-
 ## ⭐ Future Improvements
 Real-time fault detection system  
 Web dashboard (Streamlit/Flask)  
 Deployment as API  
 
 ---
+## 👨‍💻 Author  
 
+Hamdan-Saddique-ai  
