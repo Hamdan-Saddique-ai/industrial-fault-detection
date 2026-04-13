@@ -1,4 +1,5 @@
 # 🏭 Industrial Machine Investigation AI
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/918b85f3-077b-44d3-84f8-1a73652538ec" />
 
 ## 📌 Overview
 This project is an AI-based system for detecting industrial machine faults using acoustic signal processing, Machine Learning, and Deep Learning (CNN). It classifies machine sound signals into **Normal** and **Abnormal** conditions for predictive maintenance.
