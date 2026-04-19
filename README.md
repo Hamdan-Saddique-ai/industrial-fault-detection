@@ -82,8 +82,7 @@ The dataset contains audio signals of industrial machines labeled as:
 ---
 
 ## 📈 Results
-- Machine Learning Accuracy: (add here)
-- CNN Accuracy: (add here)
+
 - Best Model: CNN
 
 ---
